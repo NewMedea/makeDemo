@@ -2,10 +2,10 @@
 example include file
 */
 
-void myPrintHelloMake(void
+void myPrintHelloMake(void);
 
 /*
-The compilation won't work because I broke something... whoops!
+The compilation will work because I fixed something... whoops?
 
-void myPrintHelloMake(void); might work better. 
+void myPrintHelloMake(void); did work better. 
 */
